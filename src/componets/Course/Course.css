@@ -1,0 +1,20 @@
+.course{
+    border: 2px solid burlywood;
+    padding: 20px;
+    margin: 20px;
+
+}
+.name{
+    color:blue;
+}
+.title{
+    color: green;
+    font-weight: 800;
+}
+.button{
+    background-color: goldenrod;
+    width: 120px;
+    height: 25px;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
